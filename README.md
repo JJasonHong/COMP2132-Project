@@ -21,15 +21,15 @@ Ann interactive Hangman game built with HTML, CSS (compiled from SASS), and vani
 
 ### Key Features Implemented
 
-✅ Words and hints loaded from JSON file via HTTP fetch request  
-✅ 7 hangman images (stages 0-6) for visual progression  
-✅ Letter input validation and duplicate guess prevention  
-✅ Win/Loss detection with game over modal  
-✅ Play Again functionality with complete game reset  
-✅ SASS compiled to CSS with custom mixin  
-✅ JavaScript animations (fade-in effects)  
-✅ Custom JavaScript functions and Game object  
-✅ All relative paths (no absolute or server root paths)  
+Words and hints loaded from JSON file via HTTP fetch request  
+7 hangman images (stages 0-6) for visual progression  
+Letter input validation and duplicate guess prevention  
+Win/Loss detection with game over modal  
+Play Again functionality with complete game reset  
+SASS compiled to CSS with custom mixin  
+JavaScript animations (fade-in effects)  
+Custom JavaScript functions and Game object  
+All relative paths (no absolute or server root paths)  
 
 ## File Structure
 
