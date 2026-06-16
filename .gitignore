@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.log
+
+# Project files (not needed in repo)
+comp2132-project.pdf
+comp2132-project.txt
+generate_images.py
+generate-images.js
+create-images.html

@@ -1,0 +1,64 @@
+{
+  "words": [
+    {
+      "word": "JAVASCRIPT",
+      "hint": "A popular programming language for web development"
+    },
+    {
+      "word": "COMPUTER",
+      "hint": "An electronic device for processing data"
+    },
+    {
+      "word": "PROGRAMMING",
+      "hint": "The process of creating software"
+    },
+    {
+      "word": "ALGORITHM",
+      "hint": "A step-by-step procedure for solving a problem"
+    },
+    {
+      "word": "DATABASE",
+      "hint": "An organized collection of data"
+    },
+    {
+      "word": "FUNCTION",
+      "hint": "A reusable block of code"
+    },
+    {
+      "word": "VARIABLE",
+      "hint": "A container for storing data values"
+    },
+    {
+      "word": "INTERNET",
+      "hint": "A global network connecting computers"
+    },
+    {
+      "word": "DEVELOPER",
+      "hint": "A person who writes code"
+    },
+    {
+      "word": "KEYBOARD",
+      "hint": "An input device with keys"
+    },
+    {
+      "word": "SOFTWARE",
+      "hint": "Programs and applications that run on computers"
+    },
+    {
+      "word": "NETWORK",
+      "hint": "A group of interconnected computers"
+    },
+    {
+      "word": "BROWSER",
+      "hint": "Software for accessing websites"
+    },
+    {
+      "word": "DEBUGGING",
+      "hint": "The process of finding and fixing errors"
+    },
+    {
+      "word": "MEMORY",
+      "hint": "Computer storage for temporary data"
+    }
+  ]
+}
